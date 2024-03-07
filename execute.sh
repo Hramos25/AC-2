@@ -1,0 +1,1 @@
+ls | grep -P "^.+\.(o|elf|map|sym)$" | xargs -d"\n" rm

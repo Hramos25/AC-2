@@ -1,0 +1,18 @@
+GAS LISTING T1.s 			page 1
+
+
+DEFINED SYMBOLS
+                T1.s:3      *ABS*:000000000000bf88 ADDR_BASE_HI
+                T1.s:4      *ABS*:0000000000006040 TRISB
+                T1.s:5      *ABS*:0000000000006050 PORTB
+                T1.s:6      *ABS*:0000000000006060 LATB
+                T1.s:7      *ABS*:00000000000060c0 TRISD
+                T1.s:8      *ABS*:00000000000060d0 PORTD
+                T1.s:9      *ABS*:00000000000060e0 LATD
+                T1.s:10     *ABS*:0000000000006100 TRISE
+                T1.s:11     *ABS*:0000000000006110 PORTE
+                T1.s:12     *ABS*:0000000000006120 LATE
+                T1.s:17     .text:0000000000000000 main
+                T1.s:24     .text:0000000000000014 loop
+
+NO UNDEFINED SYMBOLS

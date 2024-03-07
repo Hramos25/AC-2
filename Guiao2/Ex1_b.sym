@@ -1,0 +1,17 @@
+GAS LISTING Ex1_b.s 			page 1
+
+
+DEFINED SYMBOLS
+             Ex1_b.s:3      *ABS*:0000000000000003 putChar
+             Ex1_b.s:4      *ABS*:0000000000000006 printInt
+             Ex1_b.s:5      *ABS*:000000000000000c resetC
+             Ex1_b.s:6      *ABS*:000000000000000b readC
+             Ex1_b.s:12     .text:0000000000000000 main
+             Ex1_b.s:18     .text:0000000000000010 while
+             Ex1_b.s:28     .text:0000000000000030 while1
+             Ex1_b.s:51     .text:0000000000000068 delay
+             Ex1_b.s:39     .text:0000000000000050 endw
+             Ex1_b.s:54     .text:0000000000000070 whileD
+             Ex1_b.s:64     .text:0000000000000098 endwD
+
+NO UNDEFINED SYMBOLS
